@@ -1,0 +1,25 @@
+{
+    "format": "kit-gen",
+    "version": 1,
+    "program": {
+        "name": "Mon Programme",
+        "version": "1.0.0",
+        "description": "Description affichée à l'étape de bienvenue de l'installeur.",
+        "developer": "Mon Nom",
+        "email": "contact@example.org",
+        "website": "https://example.org",
+        "license": "MIT",
+        "license_file": "",
+        "category": "Utility",
+        "executable": "../build/monprogramme",
+        "icon": "../resources/icon.png",
+        "languages": ["en", "fr"]
+    },
+    "output": {
+        "directory": "../dist"
+    },
+    "signing": {
+        "enabled": false,
+        "gpg_key": ""
+    }
+}

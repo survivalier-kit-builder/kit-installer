@@ -1,0 +1,9 @@
+/usr/local/bin/kit-builder
+/usr/local/bin/kit-installer
+/usr/local/share/applications/kit-builder.desktop
+/usr/local/share/mime/packages/kit-gen.xml
+/usr/local/share/icons/hicolor/256x256/mimetypes/application-x-kit-gen.png
+/usr/local/share/icons/hicolor/256x256/apps/kit-builder.png
+/usr/local/share/kit-installer/languages/_template.lang
+/usr/local/share/kit-installer/languages/fr.lang
+/usr/local/share/kit-installer/languages/en.lang
