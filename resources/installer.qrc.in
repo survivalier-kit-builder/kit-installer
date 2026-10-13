@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="logo.png">@CMAKE_CURRENT_SOURCE_DIR@/resources/logo.png</file>
+    <file alias="theme.qss">@CMAKE_CURRENT_SOURCE_DIR@/resources/theme.qss</file>
+@LANG_QRC_ENTRIES@  </qresource>
+</RCC>

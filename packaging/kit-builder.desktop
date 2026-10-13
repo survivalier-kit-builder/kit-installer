@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Kit Builder
+Name[fr]=Kit Builder
+Comment=Create Kit installers (.AppImage) for Linux
+Comment[fr]=Créer des installeurs en Kit (.AppImage) pour Linux
+Exec=kit-builder %f
+MimeType=application/x-kit-gen;
+Icon=kit-builder
+Terminal=false
+Categories=Development;Utility;
+StartupWMClass=kit-builder
