@@ -1,2 +1,0 @@
-/usr/bin/ar qc libkitcore.a CMakeFiles/kitcore.dir/kitcore_autogen/mocs_compilation.cpp.o CMakeFiles/kitcore.dir/src/core/kit_core.c.o CMakeFiles/kitcore.dir/src/core/kit_appimage.c.o
-/usr/bin/ranlib libkitcore.a

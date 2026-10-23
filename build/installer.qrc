@@ -1,8 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="logo.png">/home/nathan/Dev/kit-installer/resources/logo.png</file>
-    <file alias="theme.qss">/home/nathan/Dev/kit-installer/resources/theme.qss</file>
-    <file alias="lang/en.lang">/home/nathan/Dev/kit-installer/languages/en.lang</file>
-    <file alias="lang/fr.lang">/home/nathan/Dev/kit-installer/languages/fr.lang</file>
-  </qresource>
-</RCC>
