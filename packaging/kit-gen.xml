@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-kit-gen">
+    <comment>Kit Installer project</comment>
+    <comment xml:lang="fr">Projet Kit Installer</comment>
+    <glob pattern="*.kit-gen"/>
+    <icon name="application-x-kit-gen"/>
+  </mime-type>
+</mime-info>
